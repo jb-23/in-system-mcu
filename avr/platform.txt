@@ -1,0 +1,2 @@
+name=In System MCU
+version=1.0.0
