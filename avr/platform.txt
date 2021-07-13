@@ -1,2 +1,2 @@
-name=In System MCU
+name=In System MCU (bamfordresearch.com)
 version=1.0.0
